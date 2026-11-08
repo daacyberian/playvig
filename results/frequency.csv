@@ -1,0 +1,6 @@
+text,mean_IC,mean_chi_squared_vs_english
+plaintext,0.066,51.0
+after_playfair,0.0503,13715.0
+playvig_ciphertext,0.0396,12003.0
+shift_ciphertext,0.066,18762.0
+(random letters),0.0385,
